@@ -1,0 +1,60 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ p.submit {
+     float: left;
+ }
+
+ .reset-settings p.submit{
+     margin-left: 12px;
+ }
+
+ .button.delete{
+     background: #F44336;
+     border-color: #b93026;
+     box-shadow: 0 1px 0 #b93026;
+     text-shadow: 0 -1px 1px #b93026;
+     color: #fff;
+ }
+
+ .button.delete:hover, .button.delete:active, .button.delete:focus{
+     background: #fb5b4f;
+     border-color: #b93026;
+     box-shadow: 0 1px 0 #b93026;
+     text-shadow: 0 -1px 1px #b93026;
+     color: #fff;
+ }
+
+ body {
+     background: #f1f1f1;
+     color: #444;
+     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+     font-size: 13px;
+     line-height: 1.4em;
+     min-width: 600px;
+ }
+
+ .modal-dialog.modal-dialog-centered {
+     /* display: -webkit-box; */ */
+     display: -ms-flexbox;
+     display: flex;
+     -webkit-box-align: center;
+     -ms-flex-align: center;
+     align-items: center;
+     min-height: calc(100% - (.5rem * 2));
+ }
+
+ .modal-content {
+     width: 100%;
+ }
+
+h2, h3 {
+    font-size: 1.3em;
+    margin: 1em 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    display: block;
+    font-weight: 600;
+}

@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VVBC In-Store Product categories\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-04 20:20+0000\n"
+"PO-Revision-Date: 2018-03-04 20:21+0000\n"
+"Last-Translator: admin <vinicius518vi@hotmail.com>\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+msgid "VVBC In-Store Product categories"
+msgstr "VVBC Categorias de Produtos na Loja "
+
+#. Description of the plugin
+msgid "Show product categories on shop page"
+msgstr "Mostre as categorias de produtos na página da loja"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://github.com/Cardos0/"
+msgstr "https://github.com/Cardos0/"
+
+#. Author of the plugin
+msgid "VVBC"
+msgstr "VVBC"
+
+msgid "Reset settings"
+msgstr "Redefinir Configurações"
+
+msgid "Display Products Categories in Shop Page."
+msgstr "Exibir categorias de produtos na página da loja."
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "In-Store Product categories"
+msgstr "Categorias de Produtos na Loja"
+
+msgid "Child Categories"
+msgstr "Categorias Filhas"
+
+msgid "Hide Child categories."
+msgstr "Ocultar Categorias Filhas."
+
+msgid "Display Child categories."
+msgstr "Exibir Categorias Filhas."
+
+msgid "Display Only last Child categories."
+msgstr "Exibir Somente Últimas Categorias Filhas."
